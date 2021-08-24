@@ -1,0 +1,12 @@
+//
+// Created by emsm on 24-Aug-21.
+//
+
+#ifndef HOURS_SETTINGS_H
+
+#define WIFI_SSID "YOUR_SSID"
+#define WIFI_PSWD "YOUR_PASSWORD"
+
+#define HOURS_SETTINGS_H
+
+#endif //HOURS_SETTINGS_H
