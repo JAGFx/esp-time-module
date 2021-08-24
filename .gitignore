@@ -38,4 +38,5 @@ cmake-build-*/
 .pio/
 .cmake*/
 src/Settings.h
+.idea/
 
